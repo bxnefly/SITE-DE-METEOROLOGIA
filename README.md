@@ -17,3 +17,11 @@ Este projeto é um site simples de meteorologia desenvolvido com **HTML, CSS e J
 ## ❤ Credits:
 
 by: @issayz
+
+<div align="left">
+  <a href="https://www.instagram.com/rai._.934?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="72" height="60" alt="instagram logo"  />
+  </a>
+</div>
+
+###
