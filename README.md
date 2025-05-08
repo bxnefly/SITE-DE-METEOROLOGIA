@@ -1,6 +1,6 @@
 # 🌤️ Site de Meteorologia
 
-Este projeto é um site simples de meteorologia desenvolvido com **HTML, CSS e JavaScript**, que permite ao usuário consultar as condições climáticas atuais de qualquer cidade. A aplicação utiliza APIs externas para obter dados em tempo real como temperatura, sensação térmica, umidade, vento e previsão do tempo.
+Este projeto é um site simples de meteorologia desenvolvido com **HTML, CSS e JavaScript**, que permite ao usuário consultar as condições climáticas atuais de qualquer cidade. A aplicação utiliza APIs externas para obter dados em tempo real como temperatura, umidade e vento
 
 ## 🔧 Tecnologias Utilizadas
 
@@ -13,3 +13,7 @@ Este projeto é um site simples de meteorologia desenvolvido com **HTML, CSS e J
 - Busca por cidade
 - Exibição de dados meteorológicos atualizados
 - Interface responsiva e intuitiva
+
+## ❤ Credits:
+
+by: @issayz
